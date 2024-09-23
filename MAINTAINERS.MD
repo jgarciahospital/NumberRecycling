@@ -1,3 +1,5 @@
 | Org                    | Name                                      | GitHub Username        |
 | -----------------------| ------------------------------------------| -----------------------|
-| §company§ | §name§ | §github_username§ |
+| Vodafone | §name§ | @luislopezcorpas  |
+| KDDI | §name§ | @Masa810  |
+| KDDI | §name§ | @yamamoto0104  |
